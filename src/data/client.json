@@ -1,15 +1,15 @@
 {
-	"name": "Code Stitch Web Designs",
+	"name": "Fincas Trovador",
 	"email": "help@codestitch.app",
-	"phoneForTel": "555-779-4407",
-	"phoneFormatted": "(555) 779-4407",
+	"phoneForTel": "9761111111",
+	"phoneFormatted": "9761111111",
 	"address": {
-		"lineOne": "First Address Line",
+		"lineOne": "C/Diputados",
 		"lineTwo": "Second Address Line",
 		"city": "Denver",
-		"state": "CO",
-		"zip": "80206",
+		"state": "Zaragoza",
+		"zip": "50003",
 		"mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
 	},
-	"domain": "www.codestitch.app"
+	"domain": "www.fincastrovador.com"
 }
